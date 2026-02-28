@@ -1,0 +1,62 @@
+/* ================= GLOBAL BACKGROUND ================= */
+.stApp {
+    background: linear-gradient(180deg, #0b0f2a 0%, #000000 100%);
+    background-attachment: fixed;
+}
+
+/* ================= HERO TITLE ================= */
+.hero-text {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
+
+/* ================= SEARCH BAR CENTER ================= */
+div[data-baseweb="input"] {
+    width: 70%;
+    margin: auto;
+}
+
+
+/* ================= FLOATING POSTERS ================= */
+.poster-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: -90px;
+    margin-bottom: 50px;
+}
+
+.poster-container img {
+    width: 150px;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+}
+
+.poster-container img:hover {
+    transform: scale(1.1);
+}
+
+/* ================= RECOMMENDATION HOVER (GLOW) ================= */
+.stImage img {
+    border-radius: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stImage img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(0, 200, 255, 0.8);
+}
+
+/* ================= CAST HOVER (NO GLOW) ================= */
+.cast-section img {
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+}
+
+.cast-section img:hover {
+    transform: scale(1.05);
+}
