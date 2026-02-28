@@ -30,37 +30,51 @@
 ## 🖼️ Demo Screenshots
 
 ### 🏠 Home Page
-<img src="images/Home_page.png" width="100%">
+<p align="center">
+  <img src="images/Home_page.jpeg" width="850">
+</p>
 
 ---
 
 ### 🔥 Trending Movies
-<img src="images/Trending_movies.png" width="100%">
+<p align="center">
+  <img src="images/Trending_movies.jpeg" width="850">
+</p>
 
 ---
 
 ### 🎭 Genre Selection
-<img src="images/Genre_selection.png" width="100%">
+<p align="center">
+  <img src="images/Genre_selection.jpeg" width="850">
+</p>
 
 ---
 
 ### 🎯 Movie Recommendations
-<img src="images/Recommendation.png" width="100%">
+<p align="center">
+  <img src="images/Recommendation.jpeg" width="850">
+</p>
 
 ---
 
 ### 🎬 Movie Detail Page
-<img src="images/Movie_detail.png" width="100%">
+<p align="center">
+  <img src="images/Movie_detail.jpeg" width="850">
+</p>
 
 ---
 
 ### 🎥 Instant Trailer
-<img src="images/Instant_trailer.png" width="100%">
+<p align="center">
+  <img src="images/Instant_trailer.jpeg" width="850">
+</p>
 
 ---
 
 ### 👥 Cast Detail Section
-<img src="images/Cast_detail.png" width="100%">
+<p align="center">
+  <img src="images/Cast_detail.jpeg" width="850">
+</p>
 
 ---
 
@@ -76,7 +90,7 @@
 
 ## 📂 Project Structure
 
-```
+```bash
 movie-recommendation-app/
 │
 ├── app.py
