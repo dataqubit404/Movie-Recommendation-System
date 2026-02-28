@@ -52,14 +52,14 @@
 
 ### 🎯 Movie Recommendations
 <p align="center">
-  <img src="images/Recommendation.jpeg" width="850">
+  <img src="images/Recommendation_page.jpeg" width="850">
 </p>
 
 ---
 
 ### 🎬 Movie Detail Page
 <p align="center">
-  <img src="images/Movie_detail.jpeg" width="850">
+  <img src="images/Movie_detail_page.jpeg" width="850">
 </p>
 
 ---
@@ -110,8 +110,8 @@ movie-recommendation-app/
 │   ├── Home_page.png
 │   ├── Trending_movies.png
 │   ├── Genre_selection.png
-│   ├── Recommendation.png
-│   ├── Movie_detail.png
+│   ├── Recommendation_page.png
+│   ├── Movie_detail_page.png
 │   ├── Instant_trailer.png
 │   └── Cast_detail.png
 │
