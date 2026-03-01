@@ -136,11 +136,13 @@ cd movie-recommendation-app
 pip install streamlit requests python-dotenv
 ```
 ###3️⃣ Get TMDB API Key
+
 Create an account at https://www.themoviedb.org/
 Go to Settings → API
 Generate your API key
 
 ###4️⃣ Create .env File
+
 Create a file named:
 
 ```bash
